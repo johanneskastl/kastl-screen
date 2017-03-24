@@ -1,0 +1,14 @@
+{
+  "name": "kastl-screen",
+  "version": "0.1.0",
+  "author": "Johannes Kastl kastl@b1-systems.de",
+  "summary": "Install the screen package",
+  "license": "Apache 2.0",
+  "source": "https://github.com/johanneskastl/kastl-screen",
+  "project_page": "https://github.com/johanneskastl/kastl-screen",
+  "issues_url": "https://github.com/johanneskastl/kastl-screen/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
